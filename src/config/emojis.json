@@ -1,0 +1,70 @@
+{
+    "normal": {
+        "error": "<:error:1023003559853305938>",
+        "check": "<:check:1023003544263077910>",
+        "music": "<:music:1023003567658905630>",
+        "volume": "<:speaker:1023003585174310952>",
+        "ball": "<:8ball:1023003590035505172>",
+        "christmas": "<:christmas_tree:1023003546309890079>",
+        "heart": "<:heart:1023003561371635732>",
+        "paper": "<:paper:1023003571014356992>",
+        "scissors": "<:scissor:1023003581865017354>",
+        "stone": "<:rock:1023003580120178738>",
+        "pong": "<:ping_pong:1023003573887443037>",
+        "birthday": "<:birthday:1023003542996394105>",
+        "clock": "<:clock:1023003547865976874>",
+        "gift": "<:present:1023003578316628047>",
+        "medal": "<:medal:1023003565863731261>",
+        "party": "<:confetti:1023003549279473755> ",
+        "info": "<:information:1023003563741421568>",
+        "arrowDown": "<:arrow_down:1023003536855945286>",
+        "arrowUp": "<:arrow_up:1023003537988403242>",
+        "dcredits": "<:dcredits:1023003558209134623>",
+        "tv": "<:tv:1023003588282302584>",
+        "slash": "<:Bot_icon_slash:1023003583333027881>"
+    },
+
+    "Bot": {
+        "add": "<:DBadd:1023003551103979590>",
+        "info": "<:DBinfo:1023003552962072726>",
+        "min": "<:DBmin:1023003554769817700>"
+    },
+
+    "economy": {
+        "pocket": "<:pocket:1023003576450170910>",
+        "bank": "<:bank:1023003541452886056>",
+        "coins": "<:dcoin:1023003556757917786>"
+    },
+
+    "music": {
+        "next": "<:BotNext:1023003569185620010>",
+        "pause": "<:BotPause:1023003572234895361>",
+        "previous": "<:BotPrevious:1023003539473174529>",
+        "stop": "<:BotStop:1023003586730409994>",
+        "play": "<:BotPlay:1023003575170908281>"
+    },
+
+    "badges": {
+        "bot": "<:BotBots:898483233061232641>",
+        "management": "<:BotManagement:898483234009145344>",
+        "bug": "<:BotBugHunter:898485057986121748>",
+        "developer": "<:BotDeveloper:898485057159852032>",
+        "supporter": "<:BotSupporter:898483233367396362>",
+        "team": "<:TeamBot:898483233497440263>",
+        "booster": "<:BotBooster:898485057122095134>",
+        "partner": "<:BotPartner:898483233522610207>",
+        "voter": "<:BotVoter:898483233119952916>",
+        "support": "<:BotSupport:898483233572917248>",
+        "moderator": "<:BotModerator:898483232885075979>",
+        "designer": "<:BotDesigner:898483232994103306>",
+        "active": "<:BotActive:898483231203164160>",
+        "event": "<:BotEvent:898483233614860338>",
+        "vip": "<:BotVip:898483233614856232>",
+        "marketing": "<:BotMarketing:898483234617319455>",
+        "COMMENT": "These are the only emojis that I don't add to the server but you can add them to your server :) the others are on the server: https://discord.gg/teyrQspdAj"
+    },
+
+    "animated": {
+        "loading": "<a:loading:1023003995482112101>"
+    }
+}
